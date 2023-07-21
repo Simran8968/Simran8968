@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋 I am Simran Kaur alia Spal, I have completed my Masters from University of Windsor in Electrical and Computer Engineering.
+- 🔭 I’m currently working on my skills continously to become an excellent Front End Developer.
+- 🤔 I’m looking for help with any guidance if can be provided, or if could a get chance to work on a real world project to showcase my skills.
 <!--
 **Simran8968/Simran8968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
